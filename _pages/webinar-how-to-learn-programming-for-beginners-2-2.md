@@ -1,0 +1,81 @@
+---
+ID: 11345
+post_title: 'Tutorial: How to write a simple program in Java &#038; Python + push to GitHub'
+post_name: >
+  webinar-how-to-learn-programming-for-beginners-2-2
+author: Kim Desmond
+post_date: 2019-11-21 13:55:49
+layout: page
+link: >
+  https://codingnomads.co/tutorial/how-to-write-a-simple-java-program
+published: true
+tags: [ ]
+categories: [ ]
+---
+[fusion_builder_container hundred_percent="no" equal_height_columns="no" menu_anchor="" hide_on_mobile="small-visibility,medium-visibility,large-visibility" class="" id="" background_color="" background_image="" background_position="center center" background_repeat="no-repeat" fade="no" background_parallax="none" parallax_speed="0.3" video_mp4="" video_webm="" video_ogv="" video_url="" video_aspect_ratio="16:9" video_loop="yes" video_mute="yes" overlay_color="" video_preview_image="" border_size="" border_color="" border_style="solid" padding_top="" padding_bottom="" padding_left="" padding_right="" admin_label="Intro"][fusion_builder_row][fusion_builder_column type="1_1" layout="1_1" background_position="left top" background_color="" border_size="" border_color="" border_style="solid" border_position="all" spacing="yes" background_image="" background_repeat="no-repeat" padding_top="" padding_right="" padding_bottom="" padding_left="" margin_top="0px" margin_bottom="0px" class="" id="" animation_type="" animation_speed="0.3" animation_direction="left" hide_on_mobile="small-visibility,medium-visibility,large-visibility" center_content="no" last="no" min_height="" hover_type="none" link=""][fusion_text columns="" column_min_width="" column_spacing="" rule_style="default" rule_size="" rule_color="" hide_on_mobile="small-visibility,medium-visibility,large-visibility" class="" id=""]
+<div class="divider one"></div>
+<div class="one withsmallpadding ">
+<div class="page_content_wrapper">
+<div style="text-align: center;">
+<h2>Want to start building your own software applications in Java / Python?</h2>
+<h4><em>Join our tutorial with Ryan - CodingNomads Instructor and Java/Python guru.</em></h4>
+</div>
+</div>
+<div class="ppb_tour one withpadding nopadding ">
+<div class="page_content_wrapper " style="text-align: center;">
+<div class="portfolio_filter_wrapper three_cols shortcode gallery section content clearfix">
+<div class="element portfolio3filter_wrapper">
+<div class="one_third gallery3 filterable gallery_type animated2">
+<div class="thumb_content ">
+<div class="thumb_meta"></div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div id="ritekit-alerts"></div>
+<div id="ritekit-alerts"></div>
+<div id="ritekit-alerts"></div>
+<div id="ritekit-alerts"></div>
+<div id="ritekit-alerts"></div>
+<div id="ritekit-alerts"></div>
+<div id="ritekit-alerts"></div>
+<div id="ritekit-alerts"></div>
+<div id="ritekit-alerts"></div>
+<div id="ritekit-alerts"></div>
+[/fusion_text][/fusion_builder_column][/fusion_builder_row][/fusion_builder_container][fusion_builder_container hundred_percent="no" hundred_percent_height="no" hundred_percent_height_scroll="no" hundred_percent_height_center_content="yes" equal_height_columns="no" menu_anchor="" hide_on_mobile="small-visibility,medium-visibility,large-visibility" status="published" publish_date="" class="" id="" background_color="" background_image="" background_position="center center" background_repeat="no-repeat" fade="no" background_parallax="none" enable_mobile="no" parallax_speed="0.3" video_mp4="" video_webm="" video_ogv="" video_url="" video_aspect_ratio="16:9" video_loop="yes" video_mute="yes" video_preview_image="" border_size="" border_color="" border_style="solid" margin_top="" margin_bottom="" padding_top="" padding_right="" padding_bottom="" padding_left="" admin_toggled="no" admin_label="Signup Form"][fusion_builder_row][fusion_builder_column type="1_1" layout="1_2" spacing="10%" center_content="no" link="" target="_self" min_height="" hide_on_mobile="small-visibility,medium-visibility,large-visibility" class="" id="" background_image_id="" background_color="" background_image="" background_position="left top" undefined="" background_repeat="no-repeat" hover_type="none" border_size="0" border_color="" border_style="solid" border_position="all" padding_top="" padding_right="" padding_bottom="" padding_left="" margin_top="" margin_bottom="" animation_type="" animation_direction="left" animation_speed="0.3" animation_offset="" last="no"][fusion_text columns="" column_min_width="" column_spacing="" rule_style="default" rule_size="" rule_color="" hide_on_mobile="small-visibility,medium-visibility,large-visibility" class="" id=""]
+<h4>Learn step-by-step how to:</h4>
+<ul>
+ 	<li>Configure your computer to write Java/Python applications, including installing free software that is used by the pros.</li>
+ 	<li>Write, compile and run your programs from the command line interface (CLI), and using IntelliJ IDEA (Java) and PyCharm IDE (Python) - the leading integrated development environments for these languages.</li>
+ 	<li>Create a Git repository on your local computer.</li>
+ 	<li>Push your application to Github so you can show it off to all your friends (and future employers!).</li>
+</ul>
+Here is the <a href="https://github.com/CodingNomads/Intro_to_Java_and_Python_Webinar_Resources" target="_blank" rel="noopener noreferrer">Github repo with the supporting resources</a>.
+<div id="ritekit-alerts"></div>
+<div id="ritekit-alerts"></div>
+<div id="ritekit-alerts"></div>
+<div id="ritekit-alerts"></div>
+<div id="ritekit-alerts"></div>
+<div id="ritekit-alerts"></div>
+[/fusion_text][/fusion_builder_column][fusion_builder_column type="1_1" layout="1_1" spacing="" center_content="no" link="" target="_self" min_height="" hide_on_mobile="small-visibility,medium-visibility,large-visibility" class="" id="" background_color="" background_image="" background_image_id="" background_position="left top" background_repeat="no-repeat" hover_type="none" border_size="0" border_color="" border_style="solid" border_position="all" padding_top="" padding_right="" padding_bottom="" padding_left="" margin_top="" margin_bottom="" animation_type="" animation_direction="left" animation_speed="0.3" animation_offset="" last="no"][fusion_separator style_type="default" hide_on_mobile="small-visibility,medium-visibility,large-visibility" class="" id="" sep_color="" top_margin="20px" bottom_margin="" border_size="" icon="" icon_circle="" icon_circle_color="" width="" alignment="center" /][fusion_youtube id="hEtkrxMDgiw" alignment="center" width="1200" height="600" autoplay="false" api_params="" hide_on_mobile="small-visibility,medium-visibility,large-visibility" class="" css_id="" /][/fusion_builder_column][/fusion_builder_row][/fusion_builder_container][fusion_builder_container hundred_percent="no" hundred_percent_height="no" hundred_percent_height_scroll="no" hundred_percent_height_center_content="yes" equal_height_columns="no" menu_anchor="" hide_on_mobile="small-visibility,medium-visibility,large-visibility" status="published" publish_date="" class="" id="" background_color="" background_image="" background_position="center center" background_repeat="no-repeat" fade="no" background_parallax="none" enable_mobile="no" parallax_speed="0.3" video_mp4="" video_webm="" video_ogv="" video_url="" video_aspect_ratio="16:9" video_loop="yes" video_mute="yes" video_preview_image="" border_size="" border_color="" border_style="solid" margin_top="" margin_bottom="" padding_top="" padding_right="" padding_bottom="" padding_left="" admin_label="See our other classes"][fusion_builder_row][fusion_builder_column type="1_1" layout="1_1" spacing="" center_content="no" link="" target="_self" min_height="" hide_on_mobile="small-visibility,medium-visibility,large-visibility" class="" id="" background_color="" background_image="" background_image_id="" background_position="left top" background_repeat="no-repeat" hover_type="none" border_size="0" border_color="" border_style="solid" border_position="all" padding_top="" padding_right="" padding_bottom="" padding_left="" margin_top="" margin_bottom="" animation_type="" animation_direction="left" animation_speed="0.3" animation_offset="" last="no"][fusion_separator style_type="default" hide_on_mobile="small-visibility,medium-visibility,large-visibility" class="" id="" sep_color="" top_margin="60px" bottom_margin="" border_size="" icon="" icon_circle="" icon_circle_color="" width="" alignment="center" /][fusion_text columns="" column_min_width="" column_spacing="" rule_style="default" rule_size="" rule_color="" hide_on_mobile="small-visibility,medium-visibility,large-visibility" class="" id=""]
+<div class="one withsmallpadding ">
+<div class="page_content_wrapper">
+<h3 style="text-align: center;">To go even deeper with learning to code, visit our course pages:</h3>
+</div>
+</div>
+<div id="ritekit-alerts"></div>
+<div id="ritekit-alerts"></div>
+<div id="ritekit-alerts"></div>
+[/fusion_text][fusion_separator style_type="default" hide_on_mobile="small-visibility,medium-visibility,large-visibility" class="" id="" sep_color="" top_margin="30px" bottom_margin="" border_size="" icon="" icon_circle="" icon_circle_color="" width="" alignment="center" /][/fusion_builder_column][fusion_builder_column type="1_1" layout="1_1" spacing="" center_content="no" link="" target="_self" min_height="" hide_on_mobile="small-visibility,medium-visibility,large-visibility" class="" id="" background_color="" background_image="" background_image_id="" background_position="left top" background_repeat="no-repeat" hover_type="none" border_size="0" border_color="" border_style="solid" border_position="all" padding_top="" padding_right="" padding_bottom="" padding_left="" margin_top="" margin_bottom="" animation_type="" animation_direction="left" animation_speed="0.3" animation_offset="" last="no"][fusion_portfolio layout="grid" picture_size="fixed" text_layout="unboxed" grid_box_color="" grid_element_color="" grid_separator_style_type="" grid_separator_color="" columns="3" column_spacing="100" portfolio_masonry_grid_ratio="" portfolio_masonry_width_double="" one_column_text_position="below" equal_heights="yes" number_posts="3" portfolio_title_display="title" portfolio_text_alignment="left" padding_top="0" padding_right="0" padding_bottom="0" padding_left="0" filters="no" pull_by="category" cat_slug="java-python-online,python-bali" exclude_cats="" tag_slug="" exclude_tags="" pagination_type="default" hide_url_params="off" offset="0" orderby="date" order="DESC" content_length="excerpt" excerpt_length="10" strip_html="yes" carousel_layout="title_below_image" scroll_items="" autoplay="no" show_nav="no" mouse_scroll="no" hide_on_mobile="small-visibility,medium-visibility,large-visibility" class="" id="" animation_type="" animation_direction="left" animation_speed="0.3" animation_offset="" /][/fusion_builder_column][/fusion_builder_row][/fusion_builder_container][fusion_builder_container hundred_percent="no" equal_height_columns="no" menu_anchor="" hide_on_mobile="small-visibility,medium-visibility,large-visibility" class="" id="" background_color="" background_image="" background_position="center center" background_repeat="no-repeat" fade="no" background_parallax="none" parallax_speed="0.3" video_mp4="" video_webm="" video_ogv="" video_url="" video_aspect_ratio="16:9" video_loop="yes" video_mute="yes" overlay_color="" video_preview_image="" border_size="" border_color="" border_style="solid" padding_top="" padding_bottom="" padding_left="" padding_right=""][fusion_builder_row][fusion_builder_column type="1_1" layout="1_1" background_position="left top" background_color="" border_size="" border_color="" border_style="solid" border_position="all" spacing="yes" background_image="" background_repeat="no-repeat" padding_top="" padding_right="" padding_bottom="" padding_left="" margin_top="0px" margin_bottom="0px" class="" id="" animation_type="" animation_speed="0.3" animation_direction="left" hide_on_mobile="small-visibility,medium-visibility,large-visibility" center_content="no" last="no" min_height="" hover_type="none" link=""][fusion_text]
+<div id="ritekit-alerts"></div>
+[/fusion_text][/fusion_builder_column][/fusion_builder_row][/fusion_builder_container][fusion_builder_container hundred_percent="no" equal_height_columns="no" menu_anchor="" hide_on_mobile="small-visibility,medium-visibility,large-visibility" class="" id="" background_color="" background_image="" background_position="center center" background_repeat="no-repeat" fade="no" background_parallax="none" parallax_speed="0.3" video_mp4="" video_webm="" video_ogv="" video_url="" video_aspect_ratio="16:9" video_loop="yes" video_mute="yes" overlay_color="" video_preview_image="" border_size="" border_color="" border_style="solid" padding_top="" padding_bottom="" padding_left="" padding_right=""][fusion_builder_row][fusion_builder_column type="1_1" layout="1_1" background_position="left top" background_color="" border_size="" border_color="" border_style="solid" border_position="all" spacing="yes" background_image="" background_repeat="no-repeat" padding_top="" padding_right="" padding_bottom="" padding_left="" margin_top="0px" margin_bottom="0px" class="" id="" animation_type="" animation_speed="0.3" animation_direction="left" hide_on_mobile="small-visibility,medium-visibility,large-visibility" center_content="no" last="no" min_height="" hover_type="none" link=""][fusion_text]
+<div id="ritekit-alerts"></div>
+<div id="ritekit-alerts"></div>
+[/fusion_text][/fusion_builder_column][/fusion_builder_row][/fusion_builder_container][fusion_builder_container hundred_percent="no" equal_height_columns="no" menu_anchor="" hide_on_mobile="small-visibility,medium-visibility,large-visibility" class="" id="" background_color="" background_image="" background_position="center center" background_repeat="no-repeat" fade="no" background_parallax="none" parallax_speed="0.3" video_mp4="" video_webm="" video_ogv="" video_url="" video_aspect_ratio="16:9" video_loop="yes" video_mute="yes" overlay_color="" video_preview_image="" border_size="" border_color="" border_style="solid" padding_top="" padding_bottom="" padding_left="" padding_right=""][fusion_builder_row][fusion_builder_column type="1_1" layout="1_1" background_position="left top" background_color="" border_size="" border_color="" border_style="solid" border_position="all" spacing="yes" background_image="" background_repeat="no-repeat" padding_top="" padding_right="" padding_bottom="" padding_left="" margin_top="0px" margin_bottom="0px" class="" id="" animation_type="" animation_speed="0.3" animation_direction="left" hide_on_mobile="small-visibility,medium-visibility,large-visibility" center_content="no" last="no" min_height="" hover_type="none" link=""][fusion_text]
+<div id="ritekit-alerts"></div>
+[/fusion_text][/fusion_builder_column][/fusion_builder_row][/fusion_builder_container][fusion_builder_container hundred_percent="no" equal_height_columns="no" menu_anchor="" hide_on_mobile="small-visibility,medium-visibility,large-visibility" class="" id="" background_color="" background_image="" background_position="center center" background_repeat="no-repeat" fade="no" background_parallax="none" parallax_speed="0.3" video_mp4="" video_webm="" video_ogv="" video_url="" video_aspect_ratio="16:9" video_loop="yes" video_mute="yes" overlay_color="" video_preview_image="" border_size="" border_color="" border_style="solid" padding_top="" padding_bottom="" padding_left="" padding_right=""][fusion_builder_row][fusion_builder_column type="1_1" layout="1_1" background_position="left top" background_color="" border_size="" border_color="" border_style="solid" border_position="all" spacing="yes" background_image="" background_repeat="no-repeat" padding_top="" padding_right="" padding_bottom="" padding_left="" margin_top="0px" margin_bottom="0px" class="" id="" animation_type="" animation_speed="0.3" animation_direction="left" hide_on_mobile="small-visibility,medium-visibility,large-visibility" center_content="no" last="no" min_height="" hover_type="none" link=""][fusion_text]
+<div id="ritekit-alerts"></div>
+[/fusion_text][/fusion_builder_column][/fusion_builder_row][/fusion_builder_container]
